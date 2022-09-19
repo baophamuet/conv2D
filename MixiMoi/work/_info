@@ -1,0 +1,346 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/projectModelSim/BTL/BTL
+Econtroller
+Z0 w1655297688
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dD:/projectModelSim/MixiMoi
+Z6 8D:/projectModelSim/MixiMoi/controller.vhd
+Z7 FD:/projectModelSim/MixiMoi/controller.vhd
+l0
+L5
+V5h2W2@L2E`lm?1Fjzh5E^0
+!s100 _@5:jXNVV>6KCW7d3NU9J0
+Z8 OL;C;10.5;63
+32
+Z9 !s110 1655353519
+!i10b 1
+Z10 !s108 1655353519.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/projectModelSim/MixiMoi/controller.vhd|
+Z12 !s107 D:/projectModelSim/MixiMoi/controller.vhd|
+!i113 0
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abev
+R1
+R2
+R3
+R4
+DEx4 work 10 controller 0 22 5h2W2@L2E`lm?1Fjzh5E^0
+l22
+L19
+VQnK=7Wj<6i?3<1MTMM<P22
+!s100 HeghKA;lC;dNaH_e<<SE01
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Econv2d
+Z15 w1655168518
+Z16 DPx4 work 5 mylib 0 22 MOAg`hGHaVm9N7DE<BCRc1
+R1
+R2
+R3
+R4
+R5
+Z17 8D:/projectModelSim/MixiMoi/conv2D.vhd
+Z18 FD:/projectModelSim/MixiMoi/conv2D.vhd
+l0
+L5
+V^n7kTkDj>;m`Q<e2O[CG60
+!s100 Od?B_BDm?i:6g;ce8jW]E1
+R8
+32
+Z19 !s110 1655353520
+!i10b 1
+Z20 !s108 1655353520.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/projectModelSim/MixiMoi/conv2D.vhd|
+Z22 !s107 D:/projectModelSim/MixiMoi/conv2D.vhd|
+!i113 0
+R13
+R14
+Artl
+R16
+R1
+R2
+R3
+R4
+DEx4 work 6 conv2d 0 22 ^n7kTkDj>;m`Q<e2O[CG60
+l30
+L21
+V0zV2bklHC35HZ1S^@RCH32
+!s100 P6CdYA^DPkLdaco4?l]AY0
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 0
+R13
+R14
+Econv2d_tb
+Z23 w1655353504
+R16
+R1
+R2
+R3
+R4
+R5
+Z24 8D:/projectModelSim/MixiMoi/conv2D_tb.vhd
+Z25 FD:/projectModelSim/MixiMoi/conv2D_tb.vhd
+l0
+L6
+Vl>dKKZWPQak1BEOleA_kX1
+!s100 Elk_9F[zkAbhZ38dXAjgR2
+R8
+32
+R19
+!i10b 1
+R20
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/projectModelSim/MixiMoi/conv2D_tb.vhd|
+Z27 !s107 D:/projectModelSim/MixiMoi/conv2D_tb.vhd|
+!i113 0
+R13
+R14
+Artl
+R16
+R1
+R2
+R3
+R4
+DEx4 work 9 conv2d_tb 0 22 l>dKKZWPQak1BEOleA_kX1
+l25
+L13
+Vig@E3hZALgU:g6ozjoIT52
+!s100 4[VO3030FRFXM560CJc7Q1
+R8
+32
+R19
+!i10b 1
+R20
+R26
+R27
+!i113 0
+R13
+R14
+Tconv2D_tb_opt
+!s110 1655353530
+Vg`]j8MZR8f7?a56zigflh0
+04 9 3 work conv2d_tb rtl 1
+o+acc
+tCvgOpt 0
+nconv2@d_tb_opt
+OL;O;10.5;63
+Ecounter_n
+Z28 w1655274680
+R1
+R2
+R3
+R4
+R5
+Z29 8D:/projectModelSim/MixiMoi/counter_n.vhd
+Z30 FD:/projectModelSim/MixiMoi/counter_n.vhd
+l0
+L5
+VDF>nO4CDZQ14BQ[l;T95H1
+!s100 2O6Y9?d=GnNiHSR?[=HU_2
+R8
+32
+R19
+!i10b 1
+R20
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/projectModelSim/MixiMoi/counter_n.vhd|
+Z32 !s107 D:/projectModelSim/MixiMoi/counter_n.vhd|
+!i113 0
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 9 counter_n 0 22 DF>nO4CDZQ14BQ[l;T95H1
+l21
+L19
+V<Y143^<CQ6>=;k:a0BNQH1
+!s100 mhD8WP@g@am2`SI<mo2Sd3
+R8
+32
+R19
+!i10b 1
+R20
+R31
+R32
+!i113 0
+R13
+R14
+Edatapath
+Z33 w1655286916
+R16
+Z34 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+R4
+R5
+Z35 8D:/projectModelSim/MixiMoi/datapath.vhd
+Z36 FD:/projectModelSim/MixiMoi/datapath.vhd
+l0
+L7
+V6UHg:fP]QAila0EzMHOI70
+!s100 DEe>NX@jd?Kcnm]001FhG2
+R8
+32
+R19
+!i10b 1
+R20
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/projectModelSim/MixiMoi/datapath.vhd|
+Z38 !s107 D:/projectModelSim/MixiMoi/datapath.vhd|
+!i113 0
+R13
+R14
+Artl
+R16
+R34
+R1
+R2
+R3
+R4
+DEx4 work 8 datapath 0 22 6UHg:fP]QAila0EzMHOI70
+l39
+L29
+VS5YUFf_mKn;Ydn[OE`29C3
+!s100 ;F1<S;]nBZOTogUz2QnMm0
+R8
+32
+R19
+!i10b 1
+R20
+R37
+R38
+!i113 0
+R13
+R14
+Edpmem
+Z39 w1655291932
+R1
+R2
+R3
+R4
+R5
+Z40 8D:/projectModelSim/MixiMoi/dpmem.vhd
+Z41 FD:/projectModelSim/MixiMoi/dpmem.vhd
+l0
+L5
+VI?`H8Q6KoZ3REI51VOj0=3
+!s100 BAbRKMb^_ce_NJP642cc<3
+R8
+32
+R19
+!i10b 1
+R20
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/projectModelSim/MixiMoi/dpmem.vhd|
+Z43 !s107 D:/projectModelSim/MixiMoi/dpmem.vhd|
+!i113 0
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 5 dpmem 0 22 I?`H8Q6KoZ3REI51VOj0=3
+l27
+L21
+VV9kg3jgh262]TVII481OA2
+!s100 lLg`_c5HY07QAZ5@FFc<Z0
+R8
+32
+R19
+!i10b 1
+R20
+R42
+R43
+!i113 0
+R13
+R14
+Emux
+Z44 w1655285356
+R3
+R4
+R5
+Z45 8D:/projectModelSim/MixiMoi/mux.vhd
+Z46 FD:/projectModelSim/MixiMoi/mux.vhd
+l0
+L3
+VZ9KY90l4z1<RUK:WziU@40
+!s100 g?A1LNl?N:H9fcgZ5;?zM1
+R8
+32
+R19
+!i10b 1
+R20
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/projectModelSim/MixiMoi/mux.vhd|
+Z48 !s107 D:/projectModelSim/MixiMoi/mux.vhd|
+!i113 0
+R13
+R14
+Abehaviral
+R3
+R4
+DEx4 work 3 mux 0 22 Z9KY90l4z1<RUK:WziU@40
+l14
+L13
+V8>9T0PLJ0oa^EcdJ2fS@`1
+!s100 75`ShU5W8HlPdHB?]9lRS3
+R8
+32
+R19
+!i10b 1
+R20
+R47
+R48
+!i113 0
+R13
+R14
+Pmylib
+R1
+R2
+R3
+R4
+w1655281898
+R5
+8D:/projectModelSim/MixiMoi/mylib.vhd
+FD:/projectModelSim/MixiMoi/mylib.vhd
+l0
+L4
+VMOAg`hGHaVm9N7DE<BCRc1
+!s100 WgY>::bICO^@PSHGDJTdR2
+R8
+32
+R9
+!i10b 1
+R10
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/projectModelSim/MixiMoi/mylib.vhd|
+!s107 D:/projectModelSim/MixiMoi/mylib.vhd|
+!i113 0
+R13
+R14
